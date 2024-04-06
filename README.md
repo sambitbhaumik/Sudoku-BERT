@@ -2,14 +2,13 @@
 A simple prototype to demonstrate the potential of BERT-masked language to solve non-trivial logical and combinatorial reasoning problems. In this case, we have chosen to solve sudoku puzzles by using BERT.
 
 # Prerequisites
-To run this implementation, the following packages are required
-
-    * [Hugging Face Transformers](https://huggingface.co/docs/transformers/en/installation) with PyTorch
-    * [Optuna](https://pypi.org/project/optuna/) for hyperparameter optimization
-    * [pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+To run this implementation, the following packages are required:
+* [Hugging Face Transformers](https://huggingface.co/docs/transformers/en/installation) with PyTorch
+* [Optuna](https://pypi.org/project/optuna/) for hyperparameter optimization
+* [pandas](https://pandas.pydata.org/docs/getting_started/install.html)
 
 Download this dataset from Kaggle
-    * [9 Million Sudoku Puzzles](https://www.kaggle.com/datasets/rohanrao/sudoku)
+    [9 Million Sudoku Puzzles](https://www.kaggle.com/datasets/rohanrao/sudoku)
 
 # Experiments
 
